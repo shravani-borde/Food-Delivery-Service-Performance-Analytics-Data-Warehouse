@@ -1,0 +1,5 @@
+time_id,Time_of_Day,hour,is_weekend
+1,Afternoon,13,0
+2,Evening,18,0
+3,Night,22,0
+4,Morning,9,0
